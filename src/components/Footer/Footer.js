@@ -15,7 +15,7 @@ const Footer = () => {
                 </a>
             </div>
             <img src="/img/Logo.png" alt="org" />
-            <strong>Desarrollado por Alura</strong>
+            <strong>Edinson Banguera &copy; {new Date().getFullYear()}</strong>
         </footer>
     );
 };
